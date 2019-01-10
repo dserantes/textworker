@@ -1,0 +1,18 @@
+This
+
+Is a test
+
+To detect	
+if the blank
+
+spaces,	tabs
+
+& new
+		lines
+
+of 	this file
+
+are 
+
+deleted
+		.
